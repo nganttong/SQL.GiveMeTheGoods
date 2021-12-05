@@ -1,0 +1,1 @@
+SELECT * FROM Student WHERE CourseName BETWEEN 'ColdFusion' AND 'Python';
